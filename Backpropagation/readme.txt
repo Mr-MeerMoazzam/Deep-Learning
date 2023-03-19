@@ -1,1 +1,1 @@
-
+In this repository, I will employ backpropagation to train a single-hidden-layer multi-layer perceptron, whereby diverse patterns will be explored to observe the rate at which weights converge. The effects and correlations between various parameters such as the learning rate, number of iterations, and number of data points will be studied as well.

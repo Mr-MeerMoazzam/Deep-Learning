@@ -1,1 +1,1 @@
-
+In this repository, you will have the opportunity to enhance your skills in utilizing Keras's scikit-learn wrapper, which enables the application of scikit-learn functions on Keras models. Additionally, you will gain hands-on experience in employing randomized grid search to discover the optimal parameter configuration for your Keras model.
